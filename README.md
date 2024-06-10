@@ -19,7 +19,7 @@
 
 
 ### Connect with Me :
-<a href="https://www.linkedin.com/in/amrahmed0/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amrahmed0/" target="_blank"><img src="https://img.shields.io/badge/-AMR%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
